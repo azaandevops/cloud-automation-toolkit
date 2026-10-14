@@ -1,0 +1,14 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+.env
+.env.*
+*.pem
+*.key
+kubeconfig
+credentials.json
+__pycache__/
+.venv/
+*.retry
+.DS_Store
